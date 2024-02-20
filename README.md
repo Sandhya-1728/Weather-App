@@ -36,6 +36,3 @@ const apiKey = 'YOUR_API_KEY';
 ## Customize Background Images
 The app dynamically changes the background image based on the current weather conditions. You can customize the images in the `images` folder to suit your preferences.
 
-```
-Remember to replace placeholder text like `your-username` and `YOUR_API_KEY` with your actual GitHub username and OpenWeatherMap API key. Additionally, feel free to tailor the README to better match the specific features or design choices of your weather app.
-```
